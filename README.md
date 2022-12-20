@@ -1,2 +1,0 @@
-# Rural_E_Health
-Idea behind this project is to develop a web-based platform for rural areas people , this is mainly for government where government can able to add various aarogya vibhag in state , add specialist doctors then aarogyavibhag can able to automatically detect disease  according to symptoms of patient  and also  specialist doctor will be allocated automatically to patient. When specialist doctor login into system then they can see the all allocated patients and give a prescription to particular patient.
